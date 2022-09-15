@@ -1,0 +1,22 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1{
+font-size: 30 px;
+color:  seagreen;
+}
+h2{
+color: darkblue;
+}
+.big{
+font-size: 80px;
+}
+.upper{
+text-transform: uppercase;
+}
+.big.upper{
+color: orangered;
+}
+h1 span{
+color: darkviolet;
+}
